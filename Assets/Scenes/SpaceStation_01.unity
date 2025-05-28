@@ -27268,24 +27268,25 @@ MonoBehaviour:
   m_text: 'MISSION START
 
 
-    Restore Generator
+    Step 1 Restore Generator
 
 
-    Fix leaks around space station
+    Step 2 Fix leaks around
+    space station
 
 
-    Find
-    the code to get into the nuclear reactor to abort detonation
+    Step 3Find the code to get into the nuclear reactor to abort
+    detonation
 
 
-    Re direct
-    the flight path
+    Step 4 Re direct the flight path
 
 
-    Replace Suit
+    Step 5 Replace Suit
 
 
-    Escape'
+    Step
+    6 Escape'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -69259,7 +69260,7 @@ GameObject:
   - component: {fileID: 747695892}
   - component: {fileID: 747695891}
   m_Layer: 5
-  m_Name: Text 1
+  m_Name: Start
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69319,27 +69320,25 @@ MonoBehaviour:
   m_text: 'MISSION START
 
 
-    Restore Generator
+    Step 1 Restore Generator
 
 
-    Fix leaks around space station
+    Step 2 Fix leaks around
+    space station
 
 
-    Find
-    the code to get into the nuclear reactor to abort detonation
+    Step 3Find the code to get into the nuclear reactor to abort
+    detonation
 
 
-    Re direct
-    the flight path
+    Step 4 Re direct the flight path
 
 
-    Replace Suitpath
+    Step 5 Replace Suit
 
 
-    Replace Suit
-
-
-    Escape'
+    Step
+    6 Escape'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -87619,7 +87618,7 @@ GameObject:
   - component: {fileID: 976200800}
   - component: {fileID: 976200799}
   m_Layer: 5
-  m_Name: Text 1 (2)
+  m_Name: Step 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87676,7 +87675,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Restore Generator
+  m_text: 'Step 1 Restore Generator
 
 '
   m_isRightToLeft: 0
@@ -90139,7 +90138,7 @@ GameObject:
   - component: {fileID: 1009348403}
   - component: {fileID: 1009348402}
   m_Layer: 5
-  m_Name: Text 1 (1)
+  m_Name: Step 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -90196,13 +90195,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-
-    Fix leaks around space station
-
-    Vents and Pipes
-
+  m_text: 'Step 2 Fix leaks around space station
 
 '
   m_isRightToLeft: 0
@@ -103020,7 +103013,7 @@ GameObject:
   - component: {fileID: 1110123696}
   - component: {fileID: 1110123695}
   m_Layer: 5
-  m_Name: Text 1 (8)
+  m_Name: code
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -177734,7 +177727,7 @@ GameObject:
   - component: {fileID: 1843756441}
   - component: {fileID: 1843756440}
   m_Layer: 5
-  m_Name: Text 1 (5)
+  m_Name: Step 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -177791,11 +177784,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-    ESCAPE TO THE SHUTTLE
-
-'
+  m_text: "\nStep 6\n ESCAPE TO THE SHUTTLE\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -179934,7 +179923,7 @@ GameObject:
   - component: {fileID: 1877145331}
   - component: {fileID: 1877145330}
   m_Layer: 5
-  m_Name: Text 1 (4)
+  m_Name: Step 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -179991,7 +179980,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Replace Suit
+  m_text: Step 5 Replace Suit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -192275,7 +192264,7 @@ GameObject:
   - component: {fileID: 2036964767}
   - component: {fileID: 2036964766}
   m_Layer: 5
-  m_Name: Text 1 (7)
+  m_Name: Step 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -192332,7 +192321,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Redirect FlightPath
+  m_text: 'Step 4 Redirect FlightPath
 
 '
   m_isRightToLeft: 0
@@ -199959,7 +199948,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 351787137917383962, guid: 5b14f1d35ed9a1d419fe68a67437b653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.6
+      value: 2.274
       objectReference: {fileID: 0}
     - target: {fileID: 923058085569348200, guid: 5b14f1d35ed9a1d419fe68a67437b653, type: 3}
       propertyPath: m_Name
@@ -199975,7 +199964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2787369384528123972, guid: 5b14f1d35ed9a1d419fe68a67437b653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.264343
+      value: 20.816
       objectReference: {fileID: 0}
     - target: {fileID: 2787369384528123972, guid: 5b14f1d35ed9a1d419fe68a67437b653, type: 3}
       propertyPath: m_LocalPosition.z
@@ -204385,7 +204374,7 @@ GameObject:
   - component: {fileID: 2133998770}
   - component: {fileID: 2133998769}
   m_Layer: 5
-  m_Name: Text 1 (6)
+  m_Name: Step 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -204442,7 +204431,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Input Code to deactive nuclear reactor
+  m_text: 'Step 3 Input Code to deactive nuclear reactor
 
 '
   m_isRightToLeft: 0
