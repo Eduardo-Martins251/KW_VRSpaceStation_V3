@@ -74928,10 +74928,6 @@ PrefabInstance:
       propertyPath: m_LightmapTilingOffset.z
       value: .406257629
       objectReference: {fileID: 0}
-    - target: {fileID: 8267484, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 10821758, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_Intensity
       value: 1.5
@@ -87520,32 +87516,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 493604, guid: 2504b53e39a2545538e6b5f5573f2bf3, type: 3}
   m_PrefabInstance: {fileID: 494636092}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &972687626 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 132568, guid: 34300443486f64d6da09f6f748778306, type: 3}
-  m_PrefabInstance: {fileID: 2024017269}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &972687630
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 972687626}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 94ea977941338804ebed8d0848be7f1e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &972984963 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 43cae7f98873e473d96789cc6276b26f, type: 3}
@@ -115183,10 +115153,6 @@ PrefabInstance:
       propertyPath: m_LightmapTilingOffset.z
       value: .406257629
       objectReference: {fileID: 0}
-    - target: {fileID: 8267484, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 10821758, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_Intensity
       value: 1.5
@@ -129895,10 +129861,6 @@ PrefabInstance:
     - target: {fileID: 2366372, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_LightmapTilingOffset.z
       value: -.000968933105
-      objectReference: {fileID: 0}
-    - target: {fileID: 8267484, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      propertyPath: Loop
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 10821758, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_Intensity
@@ -158093,32 +158055,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &1638466684 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 166372, guid: 34300443486f64d6da09f6f748778306, type: 3}
-  m_PrefabInstance: {fileID: 2024017269}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1638466689
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638466684}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b78e433a30161ff4a99a94fdf60d5c3d, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &1641407288 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9496913daf444c5c9205545c44d78c4, type: 3}
@@ -167515,7 +167451,7 @@ Transform:
   m_GameObject: {fileID: 1784076788}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0.5268819, z: 0, w: 0.8499385}
-  m_LocalPosition: {x: 0.046, y: 2.027, z: 3.605}
+  m_LocalPosition: {x: 0.065, y: 2.027, z: 3.596}
   m_LocalScale: {x: 1.7566938, y: 1.756694, z: 1.7566928}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -186792,32 +186728,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &1962730537 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 166374, guid: 34300443486f64d6da09f6f748778306, type: 3}
-  m_PrefabInstance: {fileID: 2024017269}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1962730539
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1962730537}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a07af005405de88419aa05bf9e124729, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &1963722086 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 421674, guid: 031729a7ef10c4aa1b5e0060c2f63acd, type: 3}
@@ -191129,10 +191039,6 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 466372, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 466374, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_RootOrder
       value: 45
@@ -191225,10 +191131,6 @@ PrefabInstance:
       propertyPath: m_LightmapTilingOffset.z
       value: .406257629
       objectReference: {fileID: 0}
-    - target: {fileID: 8267484, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 10821758, guid: 34300443486f64d6da09f6f748778306, type: 3}
       propertyPath: m_Intensity
       value: 1.5
@@ -191273,15 +191175,6 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 166374, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1962730539}
-    - targetCorrespondingSourceObject: {fileID: 166372, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1638466689}
-    - targetCorrespondingSourceObject: {fileID: 132568, guid: 34300443486f64d6da09f6f748778306, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 972687630}
     - targetCorrespondingSourceObject: {fileID: 132572, guid: 34300443486f64d6da09f6f748778306, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1846994327}
